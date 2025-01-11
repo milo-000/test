@@ -6,3 +6,5 @@
 2. 브랜치
 2-3. vscode, branch2에서
 2. 깃헙 branch1에서 수정 후 PR
+
+(250111-3, 깃헙 origin의 main 브랜치에서 추가)
